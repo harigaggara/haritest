@@ -2,7 +2,7 @@ package junitwebapp1;
 
 import static net.sourceforge.jwebunit.junit.JWebUnit.*;
 
-import net.sourceforge.jwebunit.junit.JWebUnit.*;
+
 
 import org.junit.Test;
 
