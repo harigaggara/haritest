@@ -18,7 +18,7 @@ public class JWebUnitTest1 {
 	public void prepare() {
 		tester = new WebTester();
 		tester.setTestingEngineKey(TestingEngineRegistry.TESTING_ENGINE_HTMLUNIT);
-		tester.setBaseUrl("http://localhost:8081/junitwebapp");
+		tester.setBaseUrl("http://localhost:8082s/junitwebapp1");
 	}
 
 	@Test
